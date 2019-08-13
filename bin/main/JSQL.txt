@@ -1,0 +1,3 @@
+#######Query format should be like this
+*
+Query here
